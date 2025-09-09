@@ -1,6 +1,6 @@
 # nnei's physics engine
 
-A small **2D soft physics demo** in Python using `pygame`, featuring a player and pushable blocks with different physics behaviors.
+A small **2D soft physics demo** in Python using pygame, featuring a player and pushable blocks with different physics behaviors.
 
 ## Features
 
