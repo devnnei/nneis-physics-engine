@@ -77,5 +77,3 @@ python main.py
 ## License
 
 This project is **CC0** — free to use, modify, and distribute.
-
-Do you want me to do that next?
